@@ -1,18 +1,9 @@
 ---
 layout: default
-title: About
+title: Info
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![profile picture](/images/benham_profile.jpg "Dan's ugly mug") I am a husband, father, mountain biker, sometimes runner, and graphics software engineer working for [Intel](https://www.intel.com). I'm not sure where this blog thing will go (if anywhere), but I thought I would take it for a spin.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Why doesn't the picture work?

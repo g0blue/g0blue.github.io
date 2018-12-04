@@ -25,8 +25,9 @@ show_downloads: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
-#theme: minima
+#theme: jekyll-theme-modernist
+#theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 

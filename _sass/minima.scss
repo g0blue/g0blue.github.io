@@ -16,9 +16,11 @@ $brand-color:      $conifer !default;
 
 $grey-color:       #828282 !default;
 //$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-light: lighten($conifer, 40%) !default;
+//$grey-color-light: lighten($conifer, 40%) !default;
+$grey-color-light: $conifer !default;
 //$grey-color-dark:  darken($grey-color, 25%) !default;
-$grey-color-dark:  darken($conifer, 25%) !default;
+//$grey-color-dark:  darken($conifer, 25%) !default;
+$grey-color-dark:  $conifer !default;
 
 $table-text-align: left !default;
 

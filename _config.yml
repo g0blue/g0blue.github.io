@@ -24,8 +24,8 @@ github_username:  g0blue
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-midnight
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 

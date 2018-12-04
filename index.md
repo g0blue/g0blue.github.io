@@ -4,3 +4,5 @@
 
 layout: home
 ---
+## Welcom to DanLand 3.0!
+Trying this new jekyll thingie...

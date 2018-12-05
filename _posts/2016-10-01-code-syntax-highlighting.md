@@ -44,6 +44,20 @@ XML with line numbers (linenos flag), `{{ "{%" }} highlight xml linenos %}`:
 ]}
 {% endhighlight %}
 
+>C++
+{:.filename}
+{% highlight cpp linenos %}
+{% raw %}
+// Sample hello world implementation
+#include <iostream>
+int main(int argc, char const* const argv[])
+{
+  std::cout << "Hello " << ((argc > 1) ? argv[1] : "World") << std::endl;
+  return 0;
+}
+{% endraw %}
+{% endhighlight %}
+
 >SQL
 {:.filename}
 {% highlight SQL %}

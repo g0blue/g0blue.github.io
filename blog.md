@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Articles
+title: Blog
 permalink: /blog/
 ---
 A collection of random thoughts...

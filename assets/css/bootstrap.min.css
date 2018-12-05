@@ -81,7 +81,7 @@ pre {
  overflow:auto
 }
 code,kbd,pre,samp {
- font-family:Inconsolata,monospace;
+ font-family:Hack,Inconsolata,monospace;
  font-size:1em
 }
 button,input,optgroup,select,textarea {
@@ -1178,7 +1178,7 @@ address {
  line-height:1.42857143
 }
 code,kbd,pre,samp {
- font-family:Inconsolata,Menlo,Monaco,Consolas,"Courier New",monospace
+ font-family:Hack,Inconsolata,Menlo,Monaco,Consolas,"Courier New",monospace
 }
 code {
  padding:2px 4px;

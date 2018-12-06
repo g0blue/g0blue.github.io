@@ -2,9 +2,6 @@
 layout: home
 permalink: /
 ---
-Trying out this github / jekyll thingie...
-## Another section
-stuff...
+## Blog
 
-### And a subsection
-More stuff...
+This is [danlandondonline.net](https://danlandonline.net), the personal blog of Dan Johnston.

@@ -61,7 +61,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
-  tzinfo-data
 
 BUNDLED WITH
-   1.17.1
+   2.0.2

@@ -22,7 +22,7 @@ url: "https://danlandonline.net" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-plugins:
+plugins_dir:
   - jekyll-feed
 
 share:
